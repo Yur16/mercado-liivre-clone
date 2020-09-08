@@ -1,5 +1,5 @@
 {
-  "name": "youtube-clone-mercadolivre",
+  "name": "mercado-livre",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,7 @@
   "devDependencies": {
     "@types/react-icons": "^3.0.0",
     "@types/styled-components": "^5.1.2"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
